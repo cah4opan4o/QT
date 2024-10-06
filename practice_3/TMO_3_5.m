@@ -1,0 +1,1 @@
+openExample('simevents/MM1QueuingSysExample')
