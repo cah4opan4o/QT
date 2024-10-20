@@ -1,2 +1,2 @@
-# QT
-queuing theory
+# QT (ТМО)
+queuing theory (Теория Массового Обслуживания))
